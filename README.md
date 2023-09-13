@@ -36,15 +36,14 @@ the prediction of the winner of the 2026 World Cup.
 4. The result will display the prediction of the potential winner of the 2026 FIFA World Cup based on historical data.
 
 
-<object data="https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="[http://yoursite.com/the.pdf](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf)">
-    </embed>
-</object>
 
 
 
-<img width="1440" alt="Screenshot 2023-09-13 at 12 46 50" src="https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/assets/113490590/797b8b28-53cc-4f54-9067-7b22f7d100c6">
 
+
+
+
+![World Cup 2026 ML Prediction](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/assets/113490590/4dd91240-af7e-4ac7-b118-2ee269c15524)
 
 
 
