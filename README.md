@@ -45,6 +45,7 @@ the prediction of the winner of the 2026 World Cup.
 
 ![World Cup 2026 ML Prediction](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/assets/113490590/4dd91240-af7e-4ac7-b118-2ee269c15524)
 
+![World Cup 2026 ML Prediction (1)](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/assets/113490590/9e9e1024-e49f-4a8f-88c5-77f69f1e4e07)
 
 
 
