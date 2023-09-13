@@ -35,8 +35,6 @@ the prediction of the winner of the 2026 World Cup.
 3. Execute the Python script containing the linear regression model and data analysis.
 4. The result will display the prediction of the potential winner of the 2026 FIFA World Cup based on historical data.
 
-[World_Cup_2026_ML_Prediction (1).pdf](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf)
-
 
 <object data="https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="[http://yoursite.com/the.pdf](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf)">
@@ -45,6 +43,7 @@ the prediction of the winner of the 2026 World Cup.
 
 
 
+<img width="1440" alt="Screenshot 2023-09-13 at 12 46 50" src="https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/assets/113490590/797b8b28-53cc-4f54-9067-7b22f7d100c6">
 
 
 
