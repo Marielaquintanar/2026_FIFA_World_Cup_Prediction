@@ -40,9 +40,9 @@ the prediction of the winner of the 2026 World Cup.
 
 <object data="https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="[http://yoursite.com/the.pdf](https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf)">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Marielaquintanar/2026_FIFA_World_Cup_Prediction/files/12602366/World_Cup_2026_ML_Prediction.1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
 
 
 
