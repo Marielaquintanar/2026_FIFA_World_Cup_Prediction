@@ -34,3 +34,15 @@ the prediction of the winner of the 2026 World Cup.
 2. Ensure you have Python, Pandas, Numpy, and Seaborn installed in your environment.
 3. Execute the Python script containing the linear regression model and data analysis.
 4. The result will display the prediction of the potential winner of the 2026 FIFA World Cup based on historical data.
+
+
+
+
+[Uploading World_Cup_2026_ML_Prediction (1).pdf…]()
+
+
+
+
+
+
+
